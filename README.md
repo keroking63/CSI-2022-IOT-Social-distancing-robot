@@ -21,11 +21,16 @@ Here are the connections:
 Servo - Pin 11
 
 L298N - ENB => Pin 5
-		IN4 => Pin 6
-		IN3 => Pin 7
-		IN2 => Pin 8
-		IN1 => Pin 9
-		ENA => Pin 10
+		
+	IN4 => Pin 6
+
+	IN3 => Pin 7
+	
+	IN2 => Pin 8
+	
+	IN1 => Pin 9
+	
+	ENA => Pin 10
 
 Trigger - A0
 
